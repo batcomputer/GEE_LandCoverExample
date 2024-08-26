@@ -90,7 +90,7 @@ var Urban:FeatureCollection (6 elements)
     description: 'Delhi_LandCover',
     folder: 'Google Earth',
     fileNamePrefix: 'delhi_landcover',
-    region: image,
+    region: delhincr,
     scale: 10,
     maxPixels: 1e9
 });
